@@ -1,0 +1,24 @@
+{
+  "name": "nyt_archiver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rntatsuya/nyt_archiver.git"
+  },
+  "author": "Tatsuya Yokota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rntatsuya/nyt_archiver/issues"
+  },
+  "homepage": "https://github.com/rntatsuya/nyt_archiver#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "json2csv": "^3.7.3",
+    "request": "^2.81.0"
+  }
+}
